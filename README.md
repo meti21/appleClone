@@ -1,0 +1,2 @@
+# appleClone
+Responsive Apple Websitevclone
